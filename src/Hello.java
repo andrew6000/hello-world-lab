@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Hello {
     public static void main(String args[]){
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); // This is a comment
         String name;
         String age;
         String thePlaceWhereYouLive;
